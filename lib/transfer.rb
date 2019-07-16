@@ -2,6 +2,7 @@ class Transfer
   
   
   def initialize(transfer, name, amount)
+    @transfer = transfer
     
   end
   
