@@ -1,10 +1,10 @@
 class Transfer
   
   
-  def initialize(transfer, sender, amount)
+  def initialize(transfer, sender, receiver)
     @transfer = transfer
     @sender = sender
-    
+    @receiver = receiver
   end
   
   
