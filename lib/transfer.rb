@@ -11,7 +11,7 @@ class Transfer
   
   
   
-  def reverse_transfer(name, transfer, number)
+  def reverse_transfer
     
     
   end 
